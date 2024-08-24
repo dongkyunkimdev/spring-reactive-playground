@@ -1,4 +1,4 @@
-package com.reactive.playground.demo;
+package com.reactive.playground.demo.sequence;
 
 import com.reactive.playground.demo.utils.Logger;
 import com.reactive.playground.demo.utils.TimeUtils;

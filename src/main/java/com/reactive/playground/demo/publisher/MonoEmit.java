@@ -1,4 +1,4 @@
-package com.reactive.playground.demo;
+package com.reactive.playground.demo.publisher;
 
 import com.reactive.playground.demo.utils.Logger;
 import reactor.core.publisher.Mono;

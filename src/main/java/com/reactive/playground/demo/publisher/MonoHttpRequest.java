@@ -1,4 +1,4 @@
-package com.reactive.playground.demo;
+package com.reactive.playground.demo.publisher;
 
 import com.jayway.jsonpath.DocumentContext;
 import com.jayway.jsonpath.JsonPath;
